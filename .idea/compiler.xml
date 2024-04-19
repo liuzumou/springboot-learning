@@ -9,12 +9,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-logger" />
         <module name="springboot-async" />
+        <module name="springboot-http" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-async" options="-parameters" />
+      <module name="springboot-http" options="-parameters" />
       <module name="springboot-logger" options="-parameters" />
     </option>
   </component>

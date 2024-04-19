@@ -9,6 +9,7 @@
       <list>
         <option value="$PROJECT_DIR$/springboot-async/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-http/pom.xml" />
       </list>
     </option>
   </component>
