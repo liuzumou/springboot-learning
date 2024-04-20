@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot-mix" />
         <module name="springboot-logger" />
         <module name="springboot-async" />
         <module name="springboot-http" />
@@ -19,6 +20,7 @@
       <module name="springboot-async" options="-parameters" />
       <module name="springboot-http" options="-parameters" />
       <module name="springboot-logger" options="-parameters" />
+      <module name="springboot-mix" options="-parameters" />
       <module name="springboot-validation" options="-parameters" />
     </option>
   </component>

@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/springboot-logger/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-http/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mix/pom.xml" />
       </list>
     </option>
   </component>
