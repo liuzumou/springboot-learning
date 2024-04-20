@@ -10,6 +10,7 @@
         <module name="springboot-logger" />
         <module name="springboot-async" />
         <module name="springboot-http" />
+        <module name="springboot-validation" />
       </profile>
     </annotationProcessing>
   </component>
@@ -18,6 +19,7 @@
       <module name="springboot-async" options="-parameters" />
       <module name="springboot-http" options="-parameters" />
       <module name="springboot-logger" options="-parameters" />
+      <module name="springboot-validation" options="-parameters" />
     </option>
   </component>
 </project>
