@@ -4,8 +4,11 @@
     <file url="file://$PROJECT_DIR$/springboot-async/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-async/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-http/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-kafka/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-logger/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-validation/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
